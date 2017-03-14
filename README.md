@@ -1,5 +1,5 @@
 # Notes_share
-The project is ongoing performs the following functions as far as now:
+The project is ongoing and performs the following functions as far as now:
 1)User regitration
 2)User Login
 3)Take picture using camera
